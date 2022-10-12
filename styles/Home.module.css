@@ -113,18 +113,6 @@
     width: 100%;
     flex-direction: column;
   }
-  .main {
-    min-height: 100vh;
-    padding: 4rem 0;
-    display: flex;
-    justify-content: center;
-    align-items: baseline;
-    flex-direction: row;
-  }
-  .title {
-    font-size: 5rem;
-  }
-
 }
 
 @media (prefers-color-scheme: dark) {
